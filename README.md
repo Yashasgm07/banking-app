@@ -1,4 +1,4 @@
 # banking-app
 This repo is for creating the bank application 
-# update
+## Update
 I updated readme
